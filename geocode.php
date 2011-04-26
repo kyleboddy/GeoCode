@@ -3,7 +3,7 @@
 /**
  * Geolocation script using Google Maps v3 API.
  *
- * Set your variables accordingly in lines 17-23, and edit the column names as necessary to match your DB schema.
+ * Set your variables accordingly at the beginning of the file, and edit the column names as necessary to match your DB schema.
  * 
  * @package    GeoCode
  * @author     Kyle Boddy <kyle.boddy@gmail.com>
